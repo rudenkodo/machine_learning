@@ -14,3 +14,6 @@ https://colab.research.google.com/drive/14RnuHZXsQH6OaiJmo9Mv0tTeOWMcbwx5#scroll
 
 Регрессия:
 https://colab.research.google.com/drive/1PMA4GN2GSrlRrDwSZZcRGR6UZSicCLE2#scrollTo=447c653b
+
+Clearml (lab 7):
+https://colab.research.google.com/drive/1ANcIl6Hhmb2dAz-Q5yfbT5lCwUmY0aE8
