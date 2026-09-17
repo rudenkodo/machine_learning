@@ -17,3 +17,6 @@ https://colab.research.google.com/drive/1PMA4GN2GSrlRrDwSZZcRGR6UZSicCLE2#scroll
 
 Clearml (lab 7):
 https://colab.research.google.com/drive/1ANcIl6Hhmb2dAz-Q5yfbT5lCwUmY0aE8
+
+Old repo:
+https://github.com/rudenman/Machine-learning-loginom
